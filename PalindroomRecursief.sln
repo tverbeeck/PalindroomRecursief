@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindroomRecursief", "PalindroomRecursief\PalindroomRecursief.csproj", "{A09D8858-CF1F-436C-B3DF-68400593DD06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A09D8858-CF1F-436C-B3DF-68400593DD06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A09D8858-CF1F-436C-B3DF-68400593DD06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A09D8858-CF1F-436C-B3DF-68400593DD06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A09D8858-CF1F-436C-B3DF-68400593DD06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {355C6B7C-D9C3-47EE-8386-E5424590DD81}
+	EndGlobalSection
+EndGlobal
